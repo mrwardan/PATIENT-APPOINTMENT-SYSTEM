@@ -1,0 +1,6 @@
+
+bmm11085_s89 sunday 8:am 9:am booked
+bmm11085_s1011 sunday 10:am 11:am booked
+mem101184_m1112 monday 11:am 12:am available
+mem101184_m34 monday 3:pm 4:pm available
+tcm11064_t1011 tuesday 10:am 11:am available
